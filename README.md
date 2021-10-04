@@ -1,7 +1,5 @@
-![](https://www.holbertonschool.com/holberton-logo.png)
-
 ## printf()
-The printf project is a collaboration between Diego López and Luis Chaparro, actual students of Software Engineering at Holberton School, were a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
+The printf project is a collaboration between Ojo Timilehin Joseph and Eba Mengistu, actual students of Software Engineering at Holberton School, were a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
 
 _printf() is a function that performs formatted output conversion and print data. Its prototype is the following:
 
@@ -324,7 +322,7 @@ Function That Returns The Amount Of Indetifiers.
 ------------
 
 ### Author
-Ojo Timilehin Joseph
+Ojo Timilehin Joseph and Eba Mengistu
 
 ------------
 
