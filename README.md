@@ -323,8 +323,10 @@ Function That Returns The Amount Of Indetifiers.
 
 ------------
 
-### Author
-Ojo Timilehin Joseph and Eba Mengistu
+### Authors
+[Ojo Timilehin Joseph](https://github.com/Timex19) | [@Timex19](https://github.com/Timex19)
+
+[Eba Mengistu](https://github.com/Eba1) | [@Eba1](https://github.com/Eba1)
 
 ------------
 
