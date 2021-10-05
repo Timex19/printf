@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * fill_oct_array - writes the character c to stdout
  *
@@ -7,6 +8,7 @@
  *
  * Return: binary array.
  */
+
 char *fill_oct_array(char *bnr, char *oct)
 {
 	int op, i, j, ioct, limit;

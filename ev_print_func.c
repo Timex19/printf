@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * ev_print_func - returns the amount of identifiers.
  * @s: argument indentifier
