@@ -122,5 +122,6 @@ int main(void)
 }
 .SH SEE ALSO
 .R printf(3)
+.SH BUGS
 .SH AUTHORS
-Written by Ojo Timilehin Joseph and Eba Mengistu.
+Ojo Timilehin Joseph - Eba Mengistu.
